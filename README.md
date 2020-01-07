@@ -18,7 +18,7 @@ Elastic Stack 在最近两年迅速崛起，成为机器数据分析，或者说
 
 本人于 Elastic Stack，虽然接触较早，但本身专于 web 和 app 应用数据方面，动笔以来，得到诸多朋友的帮助，详细贡献名单见[合作名单](contributors.md)。此外，还要特别感谢曾勇\(medcl\)同学，完成 ES 在国内的启蒙式分享，并主办 ES 中国用户大会；吴晓刚\(wood\)同学，积极帮助新用户们，并最早分享了携程的 Elastic Stack 日亿级规模的实例。
 
-
+博客作者：联系请[点击](https://k8sadmin.info/lian-xi-zuo-zhe)，搬运不易，希望请作者喝咖啡，可以点击[联系博客作者](https://k8sadmin.info/lian-xi-zuo-zhe)
 
 ## Version
 
