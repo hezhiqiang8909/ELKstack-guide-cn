@@ -1,6 +1,6 @@
 # Table of contents
 
-* [前言](README.md)
+* [ELKstack 中文指南](README.md)
 * [Logstash](logstash/README.md)
   * [入门示例](logstash/get-start/README.md)
     * [下载安装](logstash/get-start/install.md)
